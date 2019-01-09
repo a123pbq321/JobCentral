@@ -31,7 +31,8 @@
         <activity android:name=".JobListing" />
         <activity android:name=".JobDetails" />
         <activity android:name=".JobPostingConfirm" />
-        <activity android:name=".ChatActivity"></activity>
+        <activity android:name=".ChatActivity" />
+        <activity android:name=".CVListing"></activity>
     </application>
 
 </manifest>
